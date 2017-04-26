@@ -8,3 +8,5 @@ more changes. seeing if this file can be downloaded and tested separately from t
 
 
 THIS IS THE THIRD CHANGE (USING THE BRANCH WAY).
+
+adding more text to the master file. while still having the previous branch open.
