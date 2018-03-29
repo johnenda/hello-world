@@ -15,3 +15,5 @@ THIS IS THE THIRD CHANGE (USING THE BRANCH WAY).
 adding more text to the master file. while still having the previous branch open.
 
 editing the third branch now, and going to see how to merge this edit to the master, which has been changed in between times...
+
+making changes via git shell commandline
